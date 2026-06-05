@@ -16,7 +16,12 @@ This project detects human emotions from facial images using a Convolutional Neu
 - CNN-based prediction
 
 ## Dataset
-FER-2013 Dataset
+## Dataset
+
+This project uses the FER2013 dataset.
+
+Dataset Link:
+https://www.kaggle.com/datasets/shawon10/ckplus?utm_source=chatgpt.com
 
 ## Author
 Monisha M P
